@@ -74,7 +74,7 @@
     "webpack-cli": "5.1.4"
   },
   "dependencies": {
-    "core-js": "3.40.0",
+    "core-js": "3.45.1",
     "debounce-promise": "3.1.2",
     "mattermost-redux": "10.9.0",
     "react": "16.14.0",
